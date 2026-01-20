@@ -1,7 +1,6 @@
 <img src="https://tryhackme-badges.s3.amazonaws.com/Sousadll.png" alt="Your Image Badge" />
 
 
-
 # cybersec-labs
 Collection of hands-on cybersecurity labs covering offensive, defensive, and general security concepts.
 
